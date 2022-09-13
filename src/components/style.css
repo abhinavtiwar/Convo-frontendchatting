@@ -1,0 +1,99 @@
+.white{
+    color: white;
+}
+.yellow{
+    color: rgb(255, 204, 0);
+}
+.red{
+    color: rgb(255, 0, 0);
+}
+.green{
+    color: rgb(1, 192, 1);
+}
+.darkgreen{
+    color: rgb(0, 130, 4);
+}
+.bg-grey{
+    background-color: rgb(236, 235, 235);
+    
+}
+.bg-darkgrey{
+    background-color: rgb(122, 122, 122);
+    
+}
+
+.img-radius{
+    border-radius: 50%;
+}
+.nv {
+    background-color: rgb(208, 208, 208);
+    
+    border:none;
+}
+.img{
+    margin-left: 200px;
+    margin-right: 50px;
+}
+.po-img{
+    width: 23%;
+    border-radius: 50%;
+}
+.card{
+    background-color: rgb(251, 251, 251);
+
+}
+.card-footer{
+    background-color: rgb(255, 187, 0);
+    color: black;
+}
+.card-body{
+    border-bottom: 1px solid rgb(215, 215, 215);
+}
+.text-left{
+    text-align: left;
+}
+.store-btn1{
+    width: 14%;
+}
+.store-btn2{
+    width: 10%;
+}
+.input-size{
+    width:50%;
+}
+.ft-title{
+    color: greenyellow;
+}
+.pill-radius{
+    border-radius: 60%;
+    border: 0.05px solid rgb(179, 179, 179);
+   padding: 4px;
+}
+/* .card-blur { background-color: rgba(245, 245, 245, 0.8); } */
+.mask-custom {
+    backdrop-filter: blur(3px);
+    background-color: rgba(0, 107, 57, 0.1);
+  }
+.img-logo{
+    width: 38%;
+    display: block;
+    margin-left: 100px;
+
+}
+.img-logo1{
+    width: 10%;
+    display: block;
+    margin-left: 500px;
+}
+.mt-lg{
+    margin-top: 65px;
+}
+.mt-rt{
+    margin-top:86px;
+    width: 1100px;
+    padding-top: 50px;
+}
+.txt-fld{
+    background-color: white;
+    border-radius: 4px;
+}
