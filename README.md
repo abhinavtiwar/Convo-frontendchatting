@@ -31,38 +31,38 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 - Chat Page
 
-![](https://github.com/abhinavkumarlko/Convo-frontend/blob/master/Screenshots/Chatpage.JPG?raw=true)
+![](https://github.com/abhinavtiwar/Convo-frontendchatting/blob/master/Screenshots/Chatpage.JPG)
 
 - Sending and Reciving messages
 
-![](https://github.com/abhinavkumarlko/Convo-frontend/blob/master/Screenshots/Chatting.JPG?raw=true)
+![](https://github.com/abhinavtiwar/Convo-frontendchatting/blob/master/Screenshots/Chatting.JPG)
 
 
 ## Tech Stack
 
 **Client:** React, Bootstrap
 
-**Server:** Node, Express, socket.io
-
+**Server:** Node Js, Express Js, socket.io
+**Database:** Mongo DB
 
 ## Authors
 
-- [Abhinav Kumar](https://github.com/abhinavkumarlko)
-- Instructor - [Mohammad Mubassir](https://github.com/m-triple-m)
+- [Abhinav Tiwari](https://github.com/abhinavtiwar)
 
 
-# Hi, I'm Abhinav Kumar! 👋
+
+# Hi, I'm Abhinav Tiwari! 👋
 
 
 ## 🚀 About Me
-I'm a Front-end developer...
+I'm a Front-end and Backend developer...
 
 
 ## 🛠 Skills
-HTML, CSS, Bootstrap, Javascript, ReactJs ...
+HTML, CSS, Bootstrap, Javascript, ReactJs , Node JS ...
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavkumarlko/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsabhi_kumar)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-abhinav-tiwari-bb0615200/)
+
 
