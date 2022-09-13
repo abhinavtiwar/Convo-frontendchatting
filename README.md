@@ -10,6 +10,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `To Run project perform`
+1.clone repository
+2.when cloning is completed start the terminal
+3.In terminal write(npm i) to install all dependency
+4.when npm i is sucessfully done then open new terminal 
+5.on new terminal write(npm start) to start or run the frontend
+
 ### `npm start`
 
 Runs the app in the development mode.\
